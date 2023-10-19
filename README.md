@@ -8,7 +8,7 @@ This repository will actually serve as an aid to help you get started with your 
 * [NextAssignmentGoesHere](#NextAssignment)
 ---
 
-## Hello_CircuitPython
+## Ultrasonic 
 
 ### Description & Code Snippets
 the purpose of this assignment was to make the neo pixel of the metro express board turn differnt colors.It would change differnt colors due to the disatce the ultrasonic distance sensor would read.
