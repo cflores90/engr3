@@ -72,19 +72,13 @@ https://github.com/cflores90/engr3/assets/143544973/5bb3b99b-b46a-4f9e-8c2e-a2fa
 
 
 ### Reflection
-Don't just tell the reader what went wrong or was challenging!  Describe how you figured it out, share the things that helped you succeed (tutorials, other people's repos, etc.), and then share what you learned from that experience.  **Your underlying goal for the reflection, is to concisely pass on the RIGHT knowledge that will help the reader recreate this assignment better or more easily.  Pass on your wisdom!**
-
+The easiest part of this assignment was the wirring becasuse all you have to wire up is ultrasonic distance sensor and that isn't hard.The code it was a bit easy only problem had is that I was having problems with my boards Neo pixel not working.But overall this assignemnt was fun. 
 
 
 ## CircuitPython_Servo
 
 ### Description & Code Snippets
-Write a couple sentences here, describing this assignment, and make sure that you hit these two points:
-* What was the goal of the assignment?
-* How did you accomplish that goal?
-  How you accomplished the goal is NOT a reflection, it is you telling the reader how to do this assignment, in broad strokes.
-
-  Your description is the right place to draw the reader's attention to any important chunks of code. Here's how you make code look like code:
+For this assignment all we had to do was wire up a servo and make the servo turn left and turn right with cappative touch wires.And create the code for it to work. 
 
 ```python
 # SPDX-FileCopyrightText: 2018 Kattni Rembor for Adafruit Industries
@@ -123,21 +117,21 @@ while True:
 
 
 ### Evidence
-Pictures / Gifs of your finished work should go here.  You need to communicate what your thing does.
-For making a GIF, I recommend [ezgif.com](https://www.ezgif.com) Remember you can insert pictures using Markdown or HTML to insert an image.
 
 
 
-Here is how you should give image credit to someone if you use their work:
 
-Image credit goes to [Rick A](https://www.youtube.com/watch?v=dQw4w9WgXcQ&scrlybrkr=8931d0bc)
+
+https://github.com/cflores90/engr3/assets/143544973/ea6e1f96-3e5b-460f-9d82-f9f2e96ca9c6
+
+
+
 
 
 
 ### Wiring
-[tinkercad.com](https://www.tinkercad.com/learn/circuits).  If you can't find the particular part you need, get creative, and just drop a note into the circuit diagram, explaining.
-For example, I use an Arduino Uno to represent my Circuitpython device but write a note saying which board I'm actually using.
-Then post an image here.   [Here's a quick tutorial for all markdown code, like making links](https://guides.github.com/features/mastering-markdown/)
+![133495354-0ef9219e-2658-4c7b-bef3-01cff6986baf](https://github.com/cflores90/engr3/assets/143544973/25b286fe-0648-46f8-bac4-1ce46578eee7)
+
 
 ### Reflection
 Don't just tell the reader what went wrong or was challenging!  Describe how you figured it out, share the things that helped you succeed (tutorials, other people's repos, etc.), and then share what you learned from that experience.  **Your underlying goal for the reflection, is to concisely pass on the RIGHT knowledge that will help the reader recreate this assignment better or more easily.  Pass on your wisdom!**
