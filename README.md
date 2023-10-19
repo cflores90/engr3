@@ -11,12 +11,7 @@ This repository will actually serve as an aid to help you get started with your 
 ## Hello_CircuitPython
 
 ### Description & Code Snippets
-Write a couple sentences here, describing this assignment, and make sure that you hit these two points:
-* What was the goal of the assignment?
-* How did you accomplish that goal?
-  How you accomplished the goal is NOT a reflection, it is you telling the reader how to do this assignment, in broad strokes.
-
-  Your description is the right place to draw the reader's attention to any important chunks of code. Here's how you make code look like code:
+the purpose of this assignment was to make the neo pixel of the metro express board turn differnt colors.It would change differnt colors due to the disatce the ultrasonic distance sensor would read.
 
 ```python
 # SPDX-FileCopyrightText: 2021 ladyada for Adafruit Industries
