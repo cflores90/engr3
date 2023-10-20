@@ -137,7 +137,7 @@ https://github.com/cflores90/engr3/assets/143544973/ea6e1f96-3e5b-460f-9d82-f9f2
 This assignment wasn't diffuclt I found most of the code online and combinded two pieces of code that i found togther to make this assigment work efficientl. 
 
 
-## CircuitPython_LCD
+## CircuitPython_motor
 
 ### Description & Code Snippets
 Write a couple sentences here, describing this assignment, and make sure that you hit these two points:
