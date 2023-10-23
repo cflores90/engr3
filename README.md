@@ -148,6 +148,7 @@ Write a couple sentences here, describing this assignment, and make sure that yo
   Your description is the right place to draw the reader's attention to any important chunks of code. Here's how you make code look like code:
 
 ```python
+
 import board
 import analogio
 
