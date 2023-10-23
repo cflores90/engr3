@@ -1,4 +1,4 @@
-# CircuitPython
+/////;;;;;# CircuitPython
 This repository will actually serve as an aid to help you get started with your own template.  You should copy the raw form of this readme into your own, and use this template to write your own.  If you want to draw inspiration from other classmates, feel free to check [this directory of all students!](https://github.com/chssigma/Class_Accounts).
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
@@ -190,7 +190,14 @@ Write a couple sentences here, describing this assignment, and make sure that yo
   Your description is the right place to draw the reader's attention to any important chunks of code. Here's how you make code look like code:
 
 ```python
-Code goes here
+import board
+import analogio
+
+motor=analogio.AnalogOut(board.A0)
+pot=analogio.AnalogIn(board.A1)
+while True:
+    speed=pot.value
+    motor.value=speed
 
 ```
 
