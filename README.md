@@ -140,10 +140,7 @@ This assignment wasn't diffuclt I found most of the code online and combinded tw
 ## CircuitPython_motor
 
 ### Description & Code Snippets
-Write a couple sentences here, describing this assignment, and make sure that you hit these two points:
-* What was the goal of the assignment?
-* How did you accomplish that goal?
-  How you accomplished the goal is NOT a reflection, it is you telling the reader how to do this assignment, in broad strokes.
+
 
   Your description is the right place to draw the reader's attention to any important chunks of code. Here's how you make code look like code:
 
