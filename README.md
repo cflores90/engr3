@@ -170,7 +170,11 @@ For making a GIF, I recommend [ezgif.com](https://www.ezgif.com) Remember you ca
 
 And here is how you should give image credit to someone if you use their work:
 
-Image credit goes to [Rick A](https://www.youtube.com/watch?v=dQw4w9WgXcQ&scrlybrkr=8931d0bc)
+
+
+
+https://github.com/cflores90/engr3/assets/143544973/415094bf-beea-458f-959c-fa09aa172058
+
 
 
 
