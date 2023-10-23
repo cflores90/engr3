@@ -148,7 +148,14 @@ Write a couple sentences here, describing this assignment, and make sure that yo
   Your description is the right place to draw the reader's attention to any important chunks of code. Here's how you make code look like code:
 
 ```python
-Code goes here
+import board
+import analogio
+
+motor=analogio.AnalogOut(board.A0)
+pot=analogio.AnalogIn(board.A1)
+while True:
+    speed=pot.value
+    motor.value=speed
 
 ```
 
@@ -190,14 +197,7 @@ Write a couple sentences here, describing this assignment, and make sure that yo
   Your description is the right place to draw the reader's attention to any important chunks of code. Here's how you make code look like code:
 
 ```python
-import board
-import analogio
 
-motor=analogio.AnalogOut(board.A0)
-pot=analogio.AnalogIn(board.A1)
-while True:
-    speed=pot.value
-    motor.value=speed
 
 ```
 
