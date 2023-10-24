@@ -1,4 +1,4 @@
-/////;;;;;# CircuitPython
+# CircuitPython
 This repository will actually serve as an aid to help you get started with your own template.  You should copy the raw form of this readme into your own, and use this template to write your own.  If you want to draw inspiration from other classmates, feel free to check [this directory of all students!](https://github.com/chssigma/Class_Accounts).
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
@@ -140,7 +140,7 @@ This assignment wasn't diffuclt I found most of the code online and combinded tw
 ## CircuitPython_motor
 
 ### Description & Code Snippets
-
+Wire up a 6v battery pack to this circuit with a motor. Write Python code to make the motor speed up and slow down, based on input from a potentiometer.
 
   Your description is the right place to draw the reader's attention to any important chunks of code. Here's how you make code look like code:
 
@@ -182,8 +182,7 @@ Then post an image here.   [Here's a quick tutorial for all markdown code, like 
 
 
 ### Reflection
-Don't just tell the reader what went wrong or was challenging!  Describe how you figured it out, share the things that helped you succeed (tutorials, other people's repos, etc.), and then share what you learned from that experience.  **Your underlying goal for the reflection, is to concisely pass on the RIGHT knowledge that will help the reader recreate this assignment better or more easily.  Pass on your wisdom!**
-
+The hardest part if thus assignment was wirring up everything correctly.The code was very easy to do my code was only a few lines long. 
 
 
 
