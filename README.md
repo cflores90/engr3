@@ -177,13 +177,12 @@ https://github.com/cflores90/engr3/assets/143544973/415094bf-beea-458f-959c-fa09
 
 
 ### Wiring
-[tinkercad.com](https://www.tinkercad.com/learn/circuits).  If you can't find the particular part you need, get creative, and just drop a note into the circuit diagram, explaining.
-For example, I use an Arduino Uno to represent my Circuitpython device but write a note saying which board I'm actually using.
-Then post an image here.   [Here's a quick tutorial for all markdown code, like making links](https://guides.github.com/features/mastering-markdown/)
 
+![277768794-6fb0ca37-a0aa-448e-a162-6938d98fd2b8](https://github.com/cflores90/engr3/assets/143544973/bebed8d0-90a5-46b1-82b7-f04ca6545a11)
 
+Image credit goes to Raffi Chen
 ### Reflection
-The hardest part if thus assignment was wirring up everything correctly.The code was very easy to do my code was only a few lines long. 
+The hardest part of this assignment was getting the wiring right.The code was the easier part of this assignment. 
 
 
 
