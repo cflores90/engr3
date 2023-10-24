@@ -5,7 +5,8 @@ This repository will actually serve as an aid to help you get started with your 
 * [Ultrasonic](#Ultrasonic)
 * [CircuitPython_Servo](#CircuitPython_Servo)
 * [CircuitPython_motor](#CircuitPython_motor)
-* [NextAssignmentGoesHere](#NextAssignment)
+* [onshape hanger](#onshape hanger)
+* [onshape hanger](#onshape swingarm)
 ---
 
 ## Ultrasonic 
@@ -187,29 +188,63 @@ The hardest part if thus assignment was wirring up everything correctly.The code
 
 
 
-## NextAssignment
+## onshape hanger
 
 ### Description & Code Snippets
-Write a couple sentences here, describing this assignment, and make sure that you hit these two points:
-* What was the goal of the assignment?
-* How did you accomplish that goal?
-  How you accomplished the goal is NOT a reflection, it is you telling the reader how to do this assignment, in broad strokes.
+In this assignment was to create a hanger in onshape. The reason we did this was os when we have the onshape sertification test we will be prepared. 
 
-  Your description is the right place to draw the reader's attention to any important chunks of code. Here's how you make code look like code:
-
-```python
-
-
-```
-
-**Lastly, please end this section with a link to your code or file.**  
+### part link
+https://cvilleschools.onshape.com/documents/14b2ce2aac42fef6773cf68a/w/072cfd2284c6a5c82ebc9c3d/e/b55676c6b81bcc5e9b4ea96b?renderMode=0&uiState=653811dca78729041873fff3
 
 ### Evidence
+![Part Studio 1](https://github.com/cflores90/engr3/assets/143544973/2bae1356-4a1f-4d73-9f36-d7d668c7f8eb)
 
-### Wiring
-[tinkercad.com](https://www.tinkercad.com/learn/circuits).  If you can't find the particular part you need, get creative, and just drop a note into the circuit diagram, explaining.
-For example, I use an Arduino Uno to represent my Circuitpython device but write a note saying which board I'm actually using.
-Then post an image here.   [Here's a quick tutorial for all markdown code, like making links](https://guides.github.com/features/mastering-markdown/)
 ### Reflection
-Don't just tell the reader what went wrong or was challenging!  Describe how you figured it out, share the things that helped you succeed (tutorials, other people's repos, etc.), and then share what you learned from that experience.  **Your underlying goal for the reflection, is to concisely pass on the RIGHT knowledge that will help the reader recreate this assignment better or more easily.  Pass on your wisdom!**
+This assignement took me a while to complete because this was the first time I was using onshape again in months.I forgot what a lot of tools could and where they were at after that everything else was pretty easy. 
+
+
+
+## onshape swingarm 
+
+### Description
+For this assignment we had to follow the directions from the drawing given to us and we had use the variables that we had to use.And at the of the assignment you had to change the material of the part and make sure you had the correct mass.
+
+
+### part link 
+https://cvilleschools.onshape.com/documents/dc61b52afe52b7ba40b499f7/w/2660b688390bbf930c08e1fa/e/723d0baba4e010c838dec2d5?renderMode=0&uiState=6538164c4bc15d0b339a5611
+
+### Evidence
+![Part Studio 1 (1)](https://github.com/cflores90/engr3/assets/143544973/058a2144-395f-46fb-afc1-c0043449839f)
+
+
+### Reflection 
+
+For me this swing arm was one of the harder assignment I didn't know how to start the sketch.And I got some help from some of my classmates and then I started to understand how to read the4 drawings and the rest was not hard. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
