@@ -222,9 +222,9 @@ For me this swing arm was one of the harder assignment I didn't know how to star
 
 ### Code
 
-###Rotary Encoder and LCD 
+### Rotary Encoder and LCD 
 
-  
+```python
 # Rotary Encodare light thingksf;ja             # [lines 1-7] Import and set up neccesary libraries
 import time
 import rotaryio
@@ -283,6 +283,10 @@ while True:                #[lines 27-38] Set up varible for encoder, limit it t
         time.sleep(.1)
         Button = 1
     last_position = position
+```
+
+  
+
 
 
 
