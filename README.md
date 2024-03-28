@@ -214,15 +214,17 @@ https://cvilleschools.onshape.com/documents/dc61b52afe52b7ba40b499f7/w/2660b6883
 
 ### Reflection 
 
-For me this swing arm was one of the harder assignment I didn't know how to start the sketch.And I got some help from some of my classmates and then I started to understand how to read the4 drawings and the rest was not hard. 
+For me this swing arm was one of the harder assignment I didn't know how to start the sketch.And I got some help from some of my classmates and then I started to understand how to read the drawings and the rest was not hard. 
 
 ## Rotary encoder and LCD
 
 ### Description 
+For this assignment we had to get a LCD screen to display options such as Stop, caution, go. That could be selceted through the rotary encoder and have the neopixel react with it. 
+### Wiring 
+![image (1)](https://github.com/cflores90/engr3/assets/143544973/978ab41a-7316-4d32-8c8a-fbbf7e2c5f0e)
+
 
 ### Code
-
-### Rotary Encoder and LCD 
 
 ```python
 # Rotary Encodare light thingksf;ja             # [lines 1-7] Import and set up neccesary libraries
@@ -285,6 +287,11 @@ while True:                #[lines 27-38] Set up varible for encoder, limit it t
     last_position = position
 ```
 
+
+### Evidence
+
+
+### Reflection 
   
 
 
@@ -292,6 +299,7 @@ while True:                #[lines 27-38] Set up varible for encoder, limit it t
 
 
 ### Description 
+This assigment was to code a stepper motor to rotate until touched the limit switch and then roate back and when it tocuhed with the motor arm.
 
 ### Code
 
@@ -350,17 +358,42 @@ asyncio.run(main())
 
 ### Evidence
 
-
 https://github.com/cflores90/engr3/assets/143544973/bef0e231-7bab-40a2-a50e-6e07453b49b8
 
 
 
+### Wirring
 
 
 
+![motor and switches](https://github.com/cflores90/engr3/assets/143544973/690fc8ad-d293-41bd-bfe7-bf903e0702a4)
+
+### Reflection 
+Thsi assignment was a bit diffcult for me since i've never used a stepper motor ever and the instructions on canvas were a bit hard to understand for me.But the main I struggled with was getting the motor to move back and forth when it clicked the limit switch. 
 
 
+## Single part 
 
+### Description 
+The goal of this assignment was to create a V-Block based on the given drawings. Then one would modify the part based on the instructions, to produce a part with the desired ms
+### Evidence
+<img width="1470" alt="Screenshot 2024-03-27 at 10 01 42 PM" src="https://github.com/cflores90/engr3/assets/143544973/e71ebcb5-fdd5-4ff3-927c-8ae895cdc3a5">
+
+### Part Link
+https://cvilleschools.onshape.com/documents/8b5a0c398acd568c60daf4dd/w/c5d04eea9fe9b6e0758b2aac/e/6473427d3c7ad8cfb3e46b23?renderMode=0&uiState=6604d058e156161559daf46e
+### Reflection 
+This onshape part was not hard at all and was a great way to get back into using onshape.The only problem that I had was gettig the angle right but with the help of my classmates I got everything correct and how it was supposed to be. 
+
+
+## Multi Part
+
+### Description 
+
+### Evidence 
+
+### Part Link 
+
+### Reflection 
 
 
 
