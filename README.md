@@ -388,13 +388,36 @@ This onshape part was not hard at all and was a great way to get back into using
 ## Multi Part
 
 ### Description 
-
+For this assignment we had to create mic stand by creating multiple parts in one part studio. 
 ### Evidence 
+![image](https://github.com/cflores90/engr3/assets/143544973/137103cc-689d-49b8-9bd6-8d78d700b829)
 
 ### Part Link 
 
 ### Reflection 
 
 
+## Locking Pilers
 
+### Description 
+The goal of this assignment to assemble a locking piler assembly in onshape to match the drawings we got. 
+### Evidence
+<img width="1022" alt="Screenshot 2024-03-27 at 10 46 45 PM" src="https://github.com/cflores90/engr3/assets/143544973/569c7c41-14cb-4a60-9400-cd472ec60db9">
 
+### part Link 
+https://cvilleschools.onshape.com/documents/88c76c6edc0e60a6c0d17511/w/6d3dd856036b4a2daa965a6f/e/0ec9514862a6dd307b75e2e6?renderMode=0&uiState=6604d9cfdc68b67a3d548e67
+### Reflection
+This assignment I struggled with the mates and conncecting all the parts togther but with some help I got everything figured out.And made everything work how it was intend to work. 
+
+## Multi part Cylinder
+
+### Description 
+The goal for this assignment was to a create a cylinder assembly using different parts in one studio.And using the drawings to guide us. 
+The goal of this assignment to create a cylinder assembly using multiple parts within one studio. This was important for practicing how to make multiple parts from their shared dimensions.
+### Evidence
+<img width="995" alt="Screenshot 2024-03-27 at 11 00 20 PM" src="https://github.com/cflores90/engr3/assets/143544973/97de7184-b647-495d-8be3-748c8e225365">
+
+### Part link 
+https://cvilleschools.onshape.com/documents/5f334e560a190e0c223d311d/w/3b39bbc061217ebbc34836bc/e/8a747a6da7a31fa629eaf9b6?renderMode=0&uiState=6604de0157042e6d2b0443fe
+### Reflection 
+  
