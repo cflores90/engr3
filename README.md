@@ -289,10 +289,52 @@ while True:                #[lines 27-38] Set up varible for encoder, limit it t
 
 
 ### Evidence
+![305215853-9bf5ee6c-b01d-4a7d-b8a6-8cb07a35d6a8](https://github.com/cflores90/engr3/assets/143544973/bbff6b0e-afe3-4f30-809a-20c55ceb27ce)
 
+(credit to Leo W for the GIF since I couldn't upload mine from my phone)
 
 ### Reflection 
-  
+This assignment was a little rough because my LCD wasn't working correctly with my board and after that little problem I got it working good. 
+## infared Sensor
+
+### Description 
+The goal of this assignment was to get the neopixel to be red or green.RED if it was blocked off and green when it wasn't. 
+
+
+### Code
+
+ 
+```
+if ir_sensor.value:
+        print("yes")
+        led[0] = (0, 255, 0)
+    if not ir_sensor.value:
+        print("no")
+        led[0] = (255, 0, 0)
+```
+
+
+
+### Evidence
+
+
+
+### Wiring 
+
+![305213638-cf3f8a93-0c8d-4979-9c3e-c341e1b0a052](https://github.com/cflores90/engr3/assets/143544973/efb3b66c-3ae2-4650-90e1-586ac6fc6028)
+
+### Reflection 
+
+This assignment was really easy because it just the sensor changing the neopixel color.And the code was not hard at all to create. 
+
+
+
+
+
+
+
+
+
 
 
 ## Stepper motor and limt switch 
@@ -420,4 +462,4 @@ The goal of this assignment to create a cylinder assembly using multiple parts w
 ### Part link 
 https://cvilleschools.onshape.com/documents/5f334e560a190e0c223d311d/w/3b39bbc061217ebbc34836bc/e/8a747a6da7a31fa629eaf9b6?renderMode=0&uiState=6604de0157042e6d2b0443fe
 ### Reflection 
-  
+This assignment was somewhat tricky beaucause I had to create multiple parts in one part studio most of the partrs were very easy to create.But one obstacle that made it diffcult was making the bolts stick out at the top and my classmate joshua helped me get through the porblem. 
