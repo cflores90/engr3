@@ -317,8 +317,9 @@ if ir_sensor.value:
 
 ### Evidence
 
+![306404148-c63ba1a3-61a3-4299-aa5d-97ac95190aae](https://github.com/cflores90/engr3/assets/143544973/fe1f40c7-9f4a-48a5-84d4-adce1c7cc039)
 
-
+(credit to Leo W)
 ### Wiring 
 
 ![305213638-cf3f8a93-0c8d-4979-9c3e-c341e1b0a052](https://github.com/cflores90/engr3/assets/143544973/efb3b66c-3ae2-4650-90e1-586ac6fc6028)
@@ -437,7 +438,7 @@ For this assignment we had to create mic stand by creating multiple parts in one
 ### Part Link 
 
 ### Reflection 
-
+This assignment was a bit difficult because we had to creat multiple parts.And the part that made this assignment difficult was making the curve for the mic holder and it had to have the same thickness all the way.The way I solved this was I subtrtacted the thickness i wanted and then from that the outer curve to get the inner curve radius.I got all my help from Leo.
 
 ## Locking Pilers
 
