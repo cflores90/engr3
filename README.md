@@ -464,3 +464,52 @@ The goal of this assignment to create a cylinder assembly using multiple parts w
 https://cvilleschools.onshape.com/documents/5f334e560a190e0c223d311d/w/3b39bbc061217ebbc34836bc/e/8a747a6da7a31fa629eaf9b6?renderMode=0&uiState=6604de0157042e6d2b0443fe
 ### Reflection 
 This assignment was somewhat tricky beaucause I had to create multiple parts in one part studio most of the partrs were very easy to create.But one obstacle that made it diffcult was making the bolts stick out at the top and my classmate joshua helped me get through the porblem. 
+
+
+
+### Arm project 
+This project was probably at first very difficult because I had so many idea on how the design will look like and wasn't sure which one would be the best one to get it done and work proficently. They were many obstacles me and my partner faced like the best measurements we needed and how we could make our design as simpe as possible to work the same as an over complicated design that will do the samething at the same accurate rate. We also faced some coding errors and we weren't sure what to do> But then we used the code from our frist assignment(CircuitPython Servo) and it workd. But then we ran with some other issues and it stopped working.
+
+<img width="1470" alt="Screenshot 2024-06-01 at 1 28 30 AM" src="https://github.com/cflores90/engr3/assets/143544973/44f7de75-c46a-47b7-ad77-2a800556298d">
+
+### How it works
+Basically the way it supposed to work is that one servo would move the body piece to the direction where the keyis and its gonna click on it. Then the other servo will move our little hand and hit the key.
+
+### Part link 
+
+https://cvilleschools.onshape.com/documents/859b42cb3ee45bc8f3457f7a/w/b68db210ef8de15caf1e7be5/e/ecadf7f2f2e1508fe2c7051e?renderMode=0&uiState=665ab1f31d1d406f4c1b48fc
+
+### Code 
+```
+Code goes here
+# SPDX-FileCopyrightText: 2018 Kattni Rembor for Adafruit Industries
+#
+# SPDX-License-Identifier: MIT
+
+"""CircuitPython Essentials Capacitive Touch on two pins example. Does not work on Trinket M0!"""
+import time
+import board
+import touchio
+import pwmio
+from adafruit_motor import servo
+
+# create a PWMOut object on Pin A2.
+pwm = pwmio.PWMOut(board.A2, duty_cycle=2 ** 15, frequency=50)
+
+# Create a servo object, my_servo.
+my_servo = servo.ContinuousServo(pwm)
+
+touch_A4 = touchio.TouchIn(board.A4)  # Not a touch pin on Trinket M0!
+touch_A5 = touchio.TouchIn(board.A5)  # Not a touch pin on Trinket M0!
+
+while True:
+    my_servo.throttle = 0.0
+    while touch_A4.value:
+        my_servo.throttle = 1.0
+        time.sleep(.5)
+    while touch_A5.value:
+        my_servo.throttle = -1.0
+        time.sleep(.5)
+
+
+
